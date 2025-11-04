@@ -1,4 +1,5 @@
 # Glitch
+### ! Not updated since 2020 !
 A small python program that creates a full-screen glitch effect.
 
 How does it work?
